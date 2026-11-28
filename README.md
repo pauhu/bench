@@ -1,4 +1,4 @@
-# Pauhu client
+# Pauhu Bench
 
 Client for Pauhu small-model benchmarks served by the Pauhu demo backend.
 
@@ -8,3 +8,5 @@ Client for Pauhu small-model benchmarks served by the Pauhu demo backend.
 - MCP clients: [server.json](server.json) (remote, header `Authorization: Bearer <key>`).
 
 Status: proposed. Licence: Apache-2.0.
+
+Copyright © 2026 Pauhu Ltd. Written and maintained by Pauhu Ltd.
